@@ -5,5 +5,6 @@
 * The second model was trained using data scraped from Metacritic using 22 games (See: Web_Scraping.ipynb & MetacriticModel.ipynb).
 * An in-depth analysis was carried out using both models on the reviews of three games on Metacritic. One of them being The Last of Us Part II (See: TLOU2_BIAS.ipynb).
 * The Amazon model led to a higher degree of accuracy than the Metacritic model (74% vs 68%).
+* See attached PDF for full report. 
 
 
